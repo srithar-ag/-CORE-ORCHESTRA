@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise CPaaS Connector Framework",
+  "description": "Modular connector plugin framework for enterprise CPaaS integration with API orchestration, asynchronous event queues, auto-mapping, and live audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
