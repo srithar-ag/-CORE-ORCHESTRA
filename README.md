@@ -1,5 +1,7 @@
 # CORE ORCHESTRA
 
+Engineered a modular connector framework enabling secure integration between enterprise platforms - Implemented API orchestration, asynchronous event processing, and automated integration workflows
+
 An orchestration platform for building intelligent, responsive, and modern web experiences.
 
 ## Live Demo
