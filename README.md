@@ -33,13 +33,3 @@ CORE ORCHESTRA is a modern React + Vite application built with AI capabilities a
 - **Build Tools:** TypeScript, esbuild, tsx
 - **Config:** dotenv
 
-## Project Structure
-
-```bash
-CORE-ORCHESTRA/
-├── server.ts
-├── package.json
-├── src/
-├── public/
-├── dist/
-└── README.md
